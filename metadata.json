@@ -1,0 +1,6 @@
+{
+  "name": "AetherSynth AI",
+  "description": "An interactive AI-powered music workstation. Design synth parameters, generate sequencer grids, and craft immersive beats with full real-time visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
